@@ -1,6 +1,6 @@
 # beer_guesser
 
-James, please let me direct you to 3 files:
+Please let me direct you to 3 files:
   tree_beer_guesser.py
   region_list.csv
   open-beer-database (mod).csv
